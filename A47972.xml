@@ -1,0 +1,627 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter found in Utopia and from thence recommended by a very good hand to the perusal of the publisher wherein (among other things) a candid testimony to Mr. Sterryes learned and accurate Discourse of the freedom of the will lately printed : as also some reflections upon contending and disputing (as of late) about matters of religion : with a postscript to the reader, published to undeceive and quiet the minds of the people / by one that pities th'inscription upon th'Athenian altar.</title>
+            <author>One that pities th'inscription upon th'Athenian altar.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47972</idno>
+            <idno type="STC">Wing L1364</idno>
+            <idno type="STC">ESTC R9510</idno>
+            <idno type="EEBO-CITATION">13111174</idno>
+            <idno type="OCLC">ocm 13111174</idno>
+            <idno type="VID">97646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter found in Utopia and from thence recommended by a very good hand to the perusal of the publisher wherein (among other things) a candid testimony to Mr. Sterryes learned and accurate Discourse of the freedom of the will lately printed : as also some reflections upon contending and disputing (as of late) about matters of religion : with a postscript to the reader, published to undeceive and quiet the minds of the people / by one that pities th'inscription upon th'Athenian altar.</title>
+                  <author>One that pities th'inscription upon th'Athenian altar.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sterry, Peter, 1613-1672. --  Discourse of the freedom of the will.</term>
+               <term>Free will and determinism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97646:1"/>
+            <pb facs="tcp:97646:1" rendition="simple:additions"/>
+            <p>A LETTER FOUND IN UTOPIA.</p>
+            <p>And from thence recommended by a very good hand to the peruſal of the Publiſher.</p>
+            <p>Wherein (among other things) a candid Teſtimony to Mr. <hi>Sterryes</hi> learned and accurate Diſcourſe of <hi>the Freedom of the Will,</hi> late<g ref="char:EOLhyphen"/>ly Printed: As alſo ſome reflections upon <hi>Contending</hi> or <hi>Diſputing</hi> (as of late) about matters of <hi>RELIGION.</hi>
+            </p>
+            <p>With a <hi>POSTSCRIPT</hi> to the <hi>READER.</hi>
+            </p>
+            <p>Publiſhed to undeceive and quiet the minds of the People. By one that pities th' <hi>Inſcription</hi> upon th' <hi>Athenian Altar.</hi>
+            </p>
+            <q>
+               <bibl>1. Cor. 1. 20.</bibl>
+               <p>Where is the Diſputer of this World?</p>
+            </q>
+            <q>
+               <bibl>Job 15. 31.</bibl>
+               <p>Let not him that is deceived truſt in vanity, for vanity ſhall be his recompence.</p>
+            </q>
+            <q>
+               <bibl>Iſa. 44 20.</bibl>
+               <p>—He feedeth on aſhes: A deceived heart hath turned him aſide that he cannot deliver his ſoul, nor ſay, Is there not a Lye in my right hand.</p>
+            </q>
+            <p>All things <hi>Superable</hi> below him that is <hi>Inſuperable:</hi> and All things <hi>Finite</hi> below him that is <hi>Infinite.</hi>
+            </p>
+            <q>
+               <p>Bonitas invicti non vincitur, &amp; infinita miſericordia non finitur.</p> 
+               <bibl>Fulgent. ad Mon.</bibl>
+            </q>
+            <q>
+               <p>Diffudiſti per omnem mundum religioſi nominis membra religionis vim non haben<g ref="char:EOLhyphen"/>tia.</p> 
+               <bibl>Salvian. ad Eccleſ. Cathol. <hi>Ecchoing to</hi> 2 Tim. 3. 5.</bibl>
+            </q>
+            <q>
+               <p>Qui <hi>Coelum</hi> dependenter habet in <hi>Revolutionibus</hi> ſuis, vari <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſibi influenti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s impartialite<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> exhibere tanquam Principi in terris, aut Potentatui ampliſſim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Is <hi>Terram</hi> ſimilite<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> queat expectare in <hi>Laboribus</hi> ſuis, fructum ipſius praematurum ſibi producere; idqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tempore tempeſtivo; abſque omni ſolicitudine, vel timore, ſive Hominis, aut Beſtiae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p> 
+               <bibl>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. G. <hi>Americanus Protomartyr.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year<g ref="char:punc">▪</g> 1675.</p>
+            <pb facs="tcp:97646:2"/>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:97646:2"/>
+            <head>The Publiſhers PREFACE OR APOLOGY.</head>
+            <p>
+               <hi>THe following</hi> Letter <hi>might</hi> have <hi>waited</hi> ſooner <hi>upon the</hi> World, <hi>had the</hi> livelineſs <hi>of the</hi> 
+               <note n="a" place="margin">Exod. 1. 19.</note> Hebrew women <hi>been upon it, and</hi> no<g ref="char:EOLhyphen"/>thing <hi>to</hi> hinder <hi>the</hi> celerity <hi>of its</hi> Pro<g ref="char:EOLhyphen"/>duction; <hi>but it</hi> frequently <hi>ſo falls out</hi> among men, <hi>that uſeful things have but</hi> ſlow beginnings, <hi>and a Progreſs</hi> proportionable <hi>in their</hi> going on <hi>to ma<g ref="char:EOLhyphen"/>turity:</hi> Jonah's <note n="b" place="margin">Jon. 4. 6.</note> gourd <hi>(under which he was</hi> willing <hi>to ſhade</hi> himſelf <hi>as</hi> long
+<pb facs="tcp:97646:3"/>
+               <hi>as he could)</hi> came up in a night, and periſhed in a night; <hi>and it may well</hi> ſerve <hi>as an</hi> Embleme <hi>for things of a lower</hi> value, <hi>or ſuch as the darkneſs of the</hi> night <hi>produces, and that</hi> cannot <hi>endure the</hi> light <hi>of the day: much</hi> 
+               <note place="margin">Lucifugae.</note> might <hi>be ſaid about</hi> matters <hi>of that</hi> na<g ref="char:EOLhyphen"/>ture, <hi>that come forth</hi> ſuddenly, <hi>and vaniſh</hi> accordingly, <hi>the</hi> ordinary <hi>fate of ſuch</hi> 
+               <note n="c" place="margin">Col. 2. 8, 20, 22.</note> wordly Rudiments, as periſh in the uſing, <hi>and that are</hi> ſeldom <hi>long li<g ref="char:EOLhyphen"/>ved.</hi>
+            </p>
+            <p>
+               <hi>But when the</hi> Prophet <hi>comes to ſpeak of</hi> Sions peculiar and ſupernatu<g ref="char:EOLhyphen"/>ral Birth-right, <hi>he ſays,</hi> 
+               <note n="d" place="margin">Iſa. 66. 7, 8.</note> That before ſhe travailed, ſhe brought forth; before her pain came, ſhe was delivered of a <hi>Man-child: well may this be</hi> attend<g ref="char:EOLhyphen"/>ed <hi>with the</hi> ſucceeding <hi>Queries:</hi> Who hath heard ſuch a thing? Shall the earth be made to bring forth in one day? Shall a Nation be born at once? <hi>Sure<g ref="char:EOLhyphen"/>ly</hi>
+               <pb facs="tcp:97646:3"/>
+               <hi>this can</hi> never <hi>or no</hi> where <hi>elſe be, but where</hi> Time <hi>and</hi> Eternity <hi>are</hi> coupled <hi>together in</hi> marriage: <note n="e" place="margin">Rev. 22. 13.</note> 
+               <hi>the</hi> beginning <hi>and the</hi> end, <hi>the</hi> firſt <hi>and the</hi> laſt, <hi>the</hi> higheſt <hi>and the</hi> lowest, <hi>the</hi> 
+               <note n="f" place="margin">Eſa. 46. 9, 10.</note> 
+               <hi>moſt</hi> antient <hi>and</hi> honourable, <hi>with things</hi> not yet done, <hi>or of</hi> 
+               <note n="g" place="margin">1 Cor. 1. 28.</note> no account <hi>in the worlds</hi> eſtimation; when <note n="h" place="margin">Iſa. 60. 22.</note> a little one ſhall become a thouſand, and a ſmall one a ſtrong Nation, <hi>and</hi> 
+               <note n="i" place="margin">Mic. 5. 7. <hi>comp. with</hi> Job. 38. 28.</note> the remnant of Jacob in the midſt of many people: as a Dew from the Lord, that waiteth not for man, nor tarrieth for the ſons of men; <hi>and all this moſt</hi> amply, <hi>aſwel as moſt</hi> compendiouſly, <hi>in Him, who</hi> makes <hi>the</hi> Heavens <hi>and the</hi> Earth <hi>to be but one</hi> Globe, <hi>or</hi> God <hi>and</hi> Man, <hi>to be but one</hi> intire Being, <hi>or moſt</hi> com<g ref="char:EOLhyphen"/>plete Subſiſtence, <hi>in</hi> CHRIST O<g ref="char:V">Ʋ</g>R <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> LORD <hi>for ever.</hi>
+            </p>
+            <p>
+               <hi>If ſuch a</hi> thing <hi>as this be</hi> creeping <hi>or</hi> ſtealing <hi>upon the World like</hi> 
+               <note n="k" place="margin">Rev. 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 15.</note> a thief
+<pb facs="tcp:97646:4"/>
+in the night, <hi>to</hi> 
+               <note n="*" place="margin">Luk. 1. 35.</note> umbrage <hi>all the dark</hi> ſhades <hi>of the</hi> Creature, <hi>and to</hi> 
+               <note n="l" place="margin">Eph. 1. 10.</note> gather <hi>up, all that is but</hi> ſeemingly <hi>ſuch, in<g ref="char:EOLhyphen"/>to the</hi> full <note n="m" place="margin">Heb. 1. 3.</note> Brightneſs of the Fathers Glory, <hi>in Him, that</hi> Really <hi>is ſo. And if a ſavoury</hi> Specimen <hi>or</hi> Tryal <hi>hereof be</hi> candidly imparted <hi>to us, in and by the</hi> enſuing Epiſtle, <hi>let no man run a<g ref="char:EOLhyphen"/>mong the</hi> Plot-mongers <hi>of the World for ſome</hi> execrable Stratagem <hi>or</hi> Hell<g ref="char:EOLhyphen"/>bred Device, <hi>whereby to</hi> elude <hi>the Diſcovery: For the Thing (in it ſelf) is</hi> Spiritual <hi>and</hi> Heavenly, <hi>and of a</hi> Di<g ref="char:EOLhyphen"/>vine Nature. <hi>(falling ſweetly upon us,</hi> like the <note n="n" place="margin">Deut. 32. 2.</note> Dew upon the graſs, or ſmall rain upon the tender herbs) <hi>and ſuch</hi> muſt they be, <hi>that can</hi> give it <hi>any more than</hi> a civil Entertainment: <hi>and yet</hi> ſurely <hi>ſuch there are, that can</hi> open their doors <hi>to ſuch</hi> 
+               <note n="o" place="margin">J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b 31. 32.</note> Strangers <hi>as theſe, and be</hi> mighty glad <hi>of their Compa<g ref="char:EOLhyphen"/>ny;</hi> 
+               <note place="margin">Heb. 13. 2.</note> 
+               <hi>neither</hi> can there <hi>be in it matter</hi>
+               <pb facs="tcp:97646:4"/>
+               <hi>of</hi> Diſparagement, <hi>or</hi> Diſcouragement, <hi>or</hi> Prejudice, <hi>or</hi> Diſadvantage <hi>in the</hi> leaſt <hi>to any, but</hi> ſuch <hi>as either</hi> 
+               <note n="p" place="margin">1 Cor. 2. 14.</note> do not, <hi>or</hi> cannot, <hi>or</hi> 
+               <note n="r" place="margin">Exod. 5. 2. Jer. 44. 16. 1 Joh 5. 20.</note> will not <hi>underſtand it; ſince of this</hi> kind of <note n="ſ" place="margin">Iſa. 50. 4. John 6. 45. 1 Theſ. 4 9. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Learning <hi>(above</hi> all <hi>the reſt) it is moſt</hi> truly <hi>and</hi> proper<g ref="char:EOLhyphen"/>ly <hi>ſaid, that—</hi>non habet inimicum praeter ignorantem, <hi>i. e. it hath no</hi> e<g ref="char:EOLhyphen"/>nemy <hi>beſides the</hi> ignorant man, <hi>and one whoſe</hi> ignorance is the mother of his Devotion.</p>
+            <pb facs="tcp:97646:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97646:5"/>
+            <head>The Letter.</head>
+            <opener>
+               <salute>Worthy Sir:</salute>
+            </opener>
+            <p>I Received your <hi>Love</hi> in the <hi>Lines</hi> and <note n="*" place="margin">A Diſ<g ref="char:EOLhyphen"/>courſe of the <hi>Freedom of the Will,</hi> by Mr. <hi>P. S</hi>
+               </note> 
+               <hi>Book</hi> you ſent me (for ſo I do with much <hi>thankful<g ref="char:EOLhyphen"/>neſs</hi> acknowledge and interpret your <hi>accoſting</hi> me with ſo <hi>free</hi> and <hi>large</hi> and <hi>noble</hi> a Preſent) the <hi>poſthumous</hi> Work of a <hi>Perſon</hi> that was indeed <hi>of an</hi> 
+               <note n="a" place="margin">
+                  <hi>Prov.</hi> 17. 27.</note> 
+               <hi>excellent Spirit,</hi> whereby <note n="b" place="margin">
+                  <hi>Heb.</hi> 11.</note> 
+               <hi>He being dead yet ſpeaketh;</hi> as a Man <hi>of rich</hi> and rare Endow<g ref="char:EOLhyphen"/>ment; <hi>a Star of the first Magnitude,</hi> among thoſe <hi>that</hi> were <hi>able</hi> to ſee him, and <hi>underſtand</hi> his worth: I have not yet <hi>had time</hi> to read the <hi>Book</hi> through<g ref="char:EOLhyphen"/>out, but from what I have <hi>ſedulouſly,</hi> and with <hi>great delight</hi> peruſed, I ſhould not ſtick to <hi>aſſert</hi> (if that might <hi>ſignifie</hi> any thing) that the ſame <hi>Divine Glory</hi> appears in the <hi>Work,</hi> that was for<g ref="char:EOLhyphen"/>merly wont <hi>to</hi> 
+               <note n="c" place="margin">
+                  <hi>Eccleſ.</hi> 8.</note> 
+               <hi>ſhine</hi> upon <hi>the face of the Work<g ref="char:EOLhyphen"/>man</hi> in all the true <hi>Lineaments</hi> of the moſt <hi>perfect</hi>
+               <pb n="2" facs="tcp:97646:6"/>
+and <hi>well-accompliſhed</hi> Beauty: It needs not to be <hi>denied</hi> but that the ſame <hi>Vail</hi> that was upon his <hi>Speakings</hi> may ſtill <hi>abide</hi> upon his <hi>Writings,</hi> like that upon <hi>the</hi> (d) <hi>face of Moſes,</hi> which the <hi>Apoſtle</hi> 
+               <note place="margin">2 <hi>Cor.</hi> 3. 3, 14.</note> tells us, is to this day <hi>remaining</hi> untaken away, and that it cannot be <hi>removed</hi> till Chriſt himſelf <hi>removes</hi> it; <hi>which vail,</hi> he ſays <hi>is done away in Christ.</hi> The Prophet <hi>Iſaiah</hi> likewiſe ſpeaks of (e) <hi>a vail that is</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 25. 6, 7. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en.</hi> 22. 14.</note> 
+               <hi>ſpread over all Nations, and a covering cast over all people,</hi> which is not to be <hi>deſtroyed</hi> or ſwallow<g ref="char:EOLhyphen"/>ed <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>K.</hi> 19. 8. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> 63. 15. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal.</hi> 26. 8.</note> up, but in the <hi>Mount of God,</hi> the <hi>Mountain</hi> of his <hi>Holineſs,</hi> or <hi>place where his Honour dwells;</hi> where he makes us <hi>a Feaſt of fat things,</hi> of <hi>wines on the lees,</hi> of <hi>fat things full of marrow,</hi> of <hi>wines on the lees well refined,</hi> &amp;c. And the truth is, let men <hi>dream</hi> and divine, or <hi>conjecture</hi> what they <hi>pleaſe</hi> to the <hi>contrary,</hi> yet this is <hi>very certain,</hi> That all <hi>manner</hi> of <hi>vails</hi> and <hi>coverings</hi> whatſoever, can never be <hi>deſtroyed ſwallowed up,</hi> or <hi>quite taken a<g ref="char:EOLhyphen"/>way,</hi> till (f) <hi>the Sun of Righteouſneſs ariſe with heal<g ref="char:EOLhyphen"/>ing</hi> 
+               <note place="margin">
+                  <hi>Mal.</hi> 4. 2.</note> 
+               <hi>in his wings,</hi> and freedom of <hi>good will</hi> upon us.</p>
+            <p>But (dear &amp; loving Sir) there is <hi>a paſſage</hi> in yours that I do not ſo well <hi>apprehend</hi> the meaning of, and you will not, I hope, be <hi>offended</hi> at my <hi>paraphra<g ref="char:EOLhyphen"/>ſing</hi> upon it (as briefly as I may) in order to a <hi>right underſtanding:</hi> Whereas you ſay in your Letter,
+<pb n="3" facs="tcp:97646:6"/>
+               <hi>That the preſent time is very dark:</hi> I ſuppoſe you meant it to be ſo, only to thoſe that are in the dark, <note n="g" place="margin">2 <hi>Cor.</hi> 4. 9.</note> 
+               <hi>whoſe minds the god of this world hath blinded;</hi> otherwiſe to thoſe <hi>that</hi> 
+               <note n="h" place="margin">
+                  <hi>Eph.</hi> 5. 8.</note> 
+               <hi>were ſometimes darkneſs, but are now made light in the Lord,</hi> the preſent time is as <hi>lightſom</hi> to them, as any that <hi>ever was,</hi> or <hi>ſhall be;</hi> for if we rightly <hi>profeſs and confeſs</hi> him, <note n="i" place="margin">
+                  <hi>Revel.</hi> 1. 4.</note> 
+               <hi>that is, and was, &amp; is to come,</hi> and yet <note n="k" place="margin">
+                  <hi>Heb.</hi> 13. 8.</note> 
+               <hi>yeſterday, and to day, and the ſame for evermore;</hi> then we <hi>cannot</hi> but <hi>un<g ref="char:EOLhyphen"/>derstand</hi> and ſee plainly, that neither <hi>Mini<g ref="char:EOLhyphen"/>strations paſt,</hi> nor any that are to <hi>come,</hi> can <hi>make</hi> any the leaſt <hi>change</hi> or alteration upon that <hi>complete ſubſiſtence,</hi> or being that <hi>we have in Him,</hi> 
+               <note n="l" place="margin">
+                  <hi>Eph.</hi> 1. 22, 23.</note> who is <hi>Head over all things unto the Church, which is his Body, the fulneſs of him that filleth all in all;</hi> if we can <hi>witneſs,</hi> and bear forth this <hi>testimony</hi> to the world, That <note n="m" place="margin">2 <hi>Cor.</hi> 4. 6</note> the ſame <hi>God who commanded the light to ſhine out of darkneſs</hi> (in that great <hi>early</hi> day, or <hi>morning</hi> of the world) <hi>hath ſhined into our hearts the light of the knowledge of the Glory of God in the face of Jeſus Christ,</hi> and if by ver<g ref="char:EOLhyphen"/>tue of this <hi>Light</hi> we can clearly <hi>diſcern,</hi> and do know, <hi>that our GREAT</hi> 
+               <note n="n" place="margin">
+                  <hi>Job</hi> 19. 25.</note> 
+               <hi>REDEEMER li<g ref="char:EOLhyphen"/>veth,</hi> who by <note n="o" place="margin">
+                  <hi>Heb.</hi> 10. 14.</note> 
+               <hi>one Offering hath perfected for ever,</hi> as many as come by <hi>faith</hi> unto him. So
+<pb n="4" facs="tcp:97646:7"/>
+that now we can ſing <hi>triumphantly</hi> with <note n="p" place="margin">
+                  <hi>Exod.</hi> 15. 1, 20. <hi>Job.</hi> 38 7.</note> 
+               <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and <hi>Miriam,</hi> and all thoſe <hi>bright morning Stars,</hi> and bleſſed ones of God, unto the <hi>praiſe</hi> and glory of that one <hi>great</hi> and <hi>good work</hi> of his (wherein <hi>we are</hi> 
+               <note n="q" place="margin">
+                  <hi>Eph.</hi> 2. 10.</note> 
+               <hi>created in Christ Jeſus)</hi> as having neither <hi>ſuperfluity</hi> nor <hi>defect</hi> in it; and <note n="r" place="margin">
+                  <hi>Tim</hi> 3. 17.</note> that <hi>the man of God</hi> is thus <hi>made perfect,</hi> and ſo <hi>throughly furniſhed</hi> unto all <hi>good works</hi> (in that one) that he muſt needs <hi>ſtand</hi> 
+               <note n="ſ" place="margin">
+                  <hi>Col.</hi> 4. 12.</note> 
+               <hi>complete for ever</hi> in all the <hi>whole</hi> mind, and <hi>counſel,</hi> and will of our Heavenly Father: If theſe things be <hi>known</hi> to us, and <hi>believed</hi> on by us, how then comes it to paſs, that we are ſo <hi>mightily</hi> trou<g ref="char:EOLhyphen"/>bled, <hi>moleſted,</hi> or diſquieted about all that <hi>darkneſs,</hi> and <hi>weakneſs,</hi> and <hi>want,</hi> and <hi>imper<g ref="char:EOLhyphen"/>fection</hi> that we <hi>find</hi> to be in our ſelves, and that the <hi>thoughts</hi> hereof do <hi>frequently</hi> make us ſo exceeding <hi>wretched</hi> and miſerable? ſince <hi>all theſe things</hi> (or Privations rather) are famili<g ref="char:EOLhyphen"/>arly <hi>known</hi> among Believers, to be ſo <hi>diſpoſed</hi> and ordered by <hi>the wiſdom of the Almighty,</hi> as to <hi>become</hi> the ſole Inlets, or <hi>Entrance</hi> into all that <hi>Light,</hi> and <hi>Strength,</hi> and <hi>Beauty,</hi> and <hi>Glo<g ref="char:EOLhyphen"/>ry,</hi> and <hi>fulneſs of Sufficiencie,</hi> that is <hi>only</hi> to be found in <hi>God alone (in that way of</hi> 
+               <note n="t" place="margin">
+                  <hi>Col.</hi> 1. 19.</note> 
+               <hi>Chriſt eter<g ref="char:EOLhyphen"/>nally)</hi> and no where elſe beſides.</p>
+            <p>
+               <pb n="5" facs="tcp:97646:7"/>
+And in <hi>that Day</hi> (that <hi>great day of the Lord)</hi> wherein <hi>theſe things</hi> are thus made <hi>manifeſt, fi<g ref="char:EOLhyphen"/>niſhed,</hi> or done for us, and in us, <note n="u" place="margin">
+                  <hi>Zach.</hi> 12. 8.</note> 
+               <hi>He that is feebleſt in Jeruſalem ſhall be as David</hi> [<note n="w" place="margin">
+                  <hi>Pſal.</hi> 2. 6.</note> a <hi>King,</hi> 
+               <note n="x" place="margin">78. 72.</note> a <hi>Leader,</hi> 
+               <note n="y" place="margin">1 <hi>Sam.</hi> 18. 7.</note> a <hi>valiant man,</hi> 
+               <note n="z" place="margin">2 <hi>Sam.</hi> 23. 1.</note> 
+               <hi>a ſweet ſin<g ref="char:EOLhyphen"/>ger in Iſrael] and the houſe of David as God,</hi> or as the Mighties (for ſo the <hi>word</hi> is plural) and <hi>as the Angel of the Lord before</hi> [Them] and ſince <hi>every</hi> one of theſe, is <hi>now</hi> as the Angel, or <hi>Meſ<g ref="char:EOLhyphen"/>ſenger</hi> of the Lord <hi>before</hi> the reſt of the Congre<g ref="char:EOLhyphen"/>gation, or as the <hi>Angel of the Lord</hi> before [Him] ſo it may alſo be read, that is, a Meſſen<g ref="char:EOLhyphen"/>ger, or <hi>Embaſſador,</hi> like his Servant <note n="a" place="margin">
+                  <hi>Luke</hi> 3. 2, 4 5. <hi>Mal.</hi> 3. 1. <hi>Mat.</hi> 11. 10.</note> 
+               <hi>John, to prepare,</hi> or <hi>made ready his way before him:</hi> it being the <hi>Angel,</hi> or <hi>Meſſenger</hi> of the Lord (and he only) that rightly <hi>knows</hi> &amp; underſtands how to <hi>bring down</hi> every high Mountain, and how to <hi>lift up</hi> every low valley, and to make this an <hi>high-way</hi> for the <hi>Royalty of our King</hi> to paſs upon in the wilderneſs: And this is that <hi>real Glory</hi> now, that the <hi>world</hi> can neither give, <hi>re<g ref="char:EOLhyphen"/>ceive,</hi> or take away. And yet <note n="b" place="margin">
+                  <hi>Pſal.</hi> 149. 9.</note> 
+               <hi>this Honour have all his Saints. Praiſe we the Lord.</hi>
+            </p>
+            <p>Having thus <hi>ſettled</hi> the main, and that which (in the <hi>love</hi> and diſtinct <hi>knowledge</hi> of it) is of <hi>infinite</hi> conſequence and <hi>concernment</hi> to the <hi>Souls</hi> of men<hi>:</hi> In the next place, <hi>Sir,</hi> yours
+<pb n="6" facs="tcp:97646:8"/>
+               <hi>mentions</hi> the name of one, that I have not heard of <hi>a long time before,</hi> that is Mr. <hi>W. L.</hi> 
+               <note n="*" place="margin">
+                  <hi>Who con<g ref="char:EOLhyphen"/>gratulates, you ſay, my return from</hi> Diogenes <hi>his</hi> Tub, <hi>&amp;c.</hi>
+               </note> There are ſo many <hi>years elapſed</hi> ſince I had <hi>any report,</hi> either from, or <hi>concerning</hi> him till now, that I began <hi>to think,</hi> and was ready <hi>to conclude,</hi> that either ſome <hi>diſeaſe,</hi> or ſome ſad <hi>caſualty</hi> or other <hi>incident</hi> to mankind, might have <hi>carri<g ref="char:EOLhyphen"/>ed</hi> him quite away from us, and <hi>lodged</hi> him in the <hi>Grave;</hi> but now I <hi>perceive</hi> by yours, he is <hi>alive</hi> ſtill, and lately <hi>come forth</hi> upon me with <hi>A Tale of a Tub;</hi> and becauſe (it ſeems) he was not <hi>willing</hi> to give <hi>himſelf</hi> any more trouble, he took (I ſuppoſe) what came <hi>next</hi> 
+               <note place="margin">Diogenes <hi>his</hi> Tub <hi>re<g ref="char:EOLhyphen"/>hearſed and tranſpoſed.</hi>
+               </note> 
+               <hi>hand,</hi> or what firſt <hi>fell upon his mind</hi> in order to the <hi>buſineſs,</hi> and ſo <hi>puts me</hi> into <hi>Diogenes</hi> his Tub, as the fitteſt <hi>Receptacle,</hi> or hiding place for me, in his own <hi>private</hi> judgment. Now, <hi>Sir,</hi> as to this, <hi>knowing</hi> him to be an <note n="c" place="margin">
+                  <hi>Levit.</hi> 19. 32.</note> 
+               <hi>old man</hi> 
+               <note place="margin">1 <hi>Sam</hi> 2. 32</note>(that <hi>I ſpeak of)</hi> and <note n="d" place="margin">
+                  <hi>Job.</hi> 42. 17</note> 
+               <hi>full of days,</hi> and that the <hi>infirmities of Age</hi> cannot chuſe but be either <hi>more or leſs</hi> upon him, poſſibly at <hi>ſome times,</hi> or in <hi>ſome caſes,</hi> he may not have <hi>his</hi> 
+               <note n="e" place="margin">
+                  <hi>Heb.</hi> 5. 14.</note> 
+               <hi>ſenſes ſo well exerciſed</hi> as they ſhould be; however <hi>having</hi> been an intimate <hi>familiar</hi> friend, and one of <hi>an<g ref="char:EOLhyphen"/>tient acquaintance</hi> with us, and a very <hi>honeſt</hi> well-diſpoſed <hi>Gentleman,</hi> let us try <hi>(if you pleaſe)</hi> whether we may not <hi>help him a little</hi> at this <hi>dead,</hi> or dying <hi>lift.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:97646:8"/>
+To this <hi>purpoſe,</hi> I remember very well, that he who <hi>writes the life</hi> of that <hi>Diogenes,</hi> that he ſpeaks of, <hi>among other things,</hi> hath this <hi>me<g ref="char:EOLhyphen"/>morable paſſage</hi> concerning him: He ſays, that on <hi>a certain time</hi> he came into the <hi>Market-place</hi> 
+               <note place="margin">Aelian. Po<g ref="char:EOLhyphen"/>ly-hiſt. vit. Diog. Laert.</note> at Noon-day, with a <hi>candle</hi> and <hi>lantern in his hand,</hi> and when they <hi>asked him</hi> what he made there in that <hi>poſture?</hi> He ſaid, <hi>he did it,</hi> as <hi>ſeeking</hi> for a <hi>MAN;</hi> and when they an<g ref="char:EOLhyphen"/>ſwered, that the <hi>number</hi> of ſuch was <hi>great a<g ref="char:EOLhyphen"/>bout him,</hi> being in the <hi>midſt of a croud of peo<g ref="char:EOLhyphen"/>ple:</hi> His <hi>Reply was,</hi> Homines video, ſed virum deſidero: there were men enough indeed, he ſaid, <hi>but among them</hi> all, he ſaw not <hi>the man that he looked for.</hi> Now, <hi>Sir,</hi> if you be <hi>free</hi> (for I muſt not <hi>impoſe)</hi> the next time you write to Mr. <hi>L. deſire him to ſend us word</hi> what the <hi>man's name</hi> was that <hi>Diogenes</hi> ſought for; and if he <hi>finds himſelf</hi> to be at a <hi>loſs</hi> about it (as I <hi>doubt</hi> he will) let him but enter <hi>into the deſpicable Tub,</hi> I mean, the <hi>ſecret ſilence of</hi> Hermes, and there he may <hi>peradventure</hi> ſee either <hi>him,</hi> or <hi>that</hi> which he never <hi>ſaw</hi> before, and be ſo far <hi>ſatisfied with the Viſion,</hi> as never to look any farther.</p>
+            <p>But though this <hi>may perhaps</hi> ſurpriſe, or come <hi>unexpectedly</hi> upon Mr. <hi>L.</hi> yet there is
+<pb n="8" facs="tcp:97646:9" rendition="simple:additions"/>
+               <hi>another Friend</hi> that looks, and <hi>longs</hi> for <hi>ſome<g ref="char:EOLhyphen"/>thing,</hi> and to him I am <hi>hastening</hi> as faſt as I can. His name Mr. <hi>R. B.</hi> (who ſent me a Letter, and a ſmall Book, together with yours) heavily <hi>complaining,</hi> not ſo much <hi>to my ſelf,</hi> as to <hi>ſome other of our Friends in</hi> London, how <hi>negligent</hi> and careleſs I have been in not <hi>wri<g ref="char:EOLhyphen"/>ting</hi> to him according to his <hi>expectation.</hi> But pray, <hi>Sir, the next time</hi> you ſee him, and have <hi>an opportunity,</hi> be pleaſed to let him know, that <hi>his ſpeaking and writing</hi> may <hi>poſſibly</hi> be as <hi>of<g ref="char:EOLhyphen"/>fenſive,</hi> and liable to exception, as <hi>my ſilence, and not writing:</hi> And i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I deal <hi>plainly,</hi> and freely with him, <hi>I do not yet ſee</hi> what Ground or <hi>Reaſon</hi> he can have to <hi>ſhew</hi> for in<g ref="char:EOLhyphen"/>tereſting <hi>himſelf</hi> in thoſe carnal <hi>Controverſies,</hi> or <hi>Combats,</hi> or <hi>conflicts,</hi> or <hi>fightings after the manner of men,</hi> that are now <hi>ſo hotly purſued,</hi> 
+               <note place="margin">High Diſ<g ref="char:EOLhyphen"/>ſentions a<g ref="char:EOLhyphen"/>mong Pro<g ref="char:EOLhyphen"/>feſſors ſcan<g ref="char:EOLhyphen"/>dulous to Religion.</note> to the <hi>ſhame and ſcandal of Religion,</hi> and all the <hi>Profeſſors</hi> of it, <hi>as if they could live no where in the world without driving a mighty fierce violent trade of inconſistencie among themſelves:</hi> What needs he to <hi>concern</hi> him<g ref="char:EOLhyphen"/>ſelf, or <hi>meddle</hi> in theſe <hi>matters?</hi> Having lit<g ref="char:EOLhyphen"/>tle or nothing elſe to do <hi>that I know of.</hi> Can't he <note n="*" place="margin">See <hi>Iſ.</hi> 30. 7. <hi>Am.</hi> 5. 13. <hi>Heb.</hi> 2. 20.</note> 
+               <hi>ſit ſtill,</hi> and be quiet, <hi>waiting in</hi> 
+               <note n="*" place="margin">See <hi>Iſ.</hi> 30. 7. <hi>Am.</hi> 5. 13. <hi>Heb.</hi> 2. 20.</note> 
+               <hi>ſilence</hi> upon God, as would <hi>best of all</hi> become him?
+<pb n="9" facs="tcp:97646:9"/>
+Does he not <hi>know?</hi> Aſſuredly yes; he does, and <hi>cannot</hi> but know, <hi>That</hi> 
+               <note n="t" place="margin">2 <hi>Cor.</hi> 10. 4. 5.</note> 
+               <hi>the weapons of the Chriſtian warfare are not carnal, but migh<g ref="char:EOLhyphen"/>ty through God, to the pulling down of strong holds; casting down imaginations,</hi> Reaſonings, Diſputations, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>and every high thing that exalteth it ſelf against the knowledge of God, and bringing into captivity every thought to the obedience of Chriſt:</hi> And as for all o<g ref="char:EOLhyphen"/>ther <hi>weapons</hi> managed by <note n="g" place="margin">
+                  <hi>Job</hi> 21. 12.</note> 
+               <hi>vain man, that would be wiſe, though born like the wild Aſſes colt,</hi> they are altogether uſeleſs and <hi>unprofita<g ref="char:EOLhyphen"/>ble</hi> about the <hi>matters</hi> we mention, or <hi>things</hi> that we now ſpeak of, and ſuch as <hi>avail not</hi> in the leaſt to <note n="h" place="margin">1 <hi>Cor.</hi> 1 32.</note> 
+               <hi>the Reſurrection of the dead;</hi> ra<g ref="char:EOLhyphen"/>ther darken and <hi>cloud,</hi> and eclipſe, and <hi>keep under</hi> that <hi>light and life of God,</hi> that might o<g ref="char:EOLhyphen"/>therwiſe <hi>ſhine,</hi> and <hi>come forth</hi> abundantly, to the <note n="i" place="margin">
+                  <hi>Mat.</hi> 5 16.</note> 
+               <hi>glorifying of our Heavenly Father, and the mutual</hi> 
+               <note n="k" place="margin">
+                  <hi>Eph.</hi> 4 16.</note> 
+               <hi>edifying of one another in love.</hi>
+            </p>
+            <p>
+               <hi>Thou O man of God, flee theſe things,</hi> ſays the Apoſtle: What things? <note n="l" place="margin">1 <hi>Tim.</hi> 6. 5. 11. comp.</note> 
+               <hi>Perverſe Diſpu<g ref="char:EOLhyphen"/>tings of men of corrupt minds,</hi> and <hi>deſtitute of the Truth (as it is in Jeſus)</hi> ſuppoſing that the <hi>gain</hi> (of a little empty <hi>breath,</hi> in popular ap<g ref="char:EOLhyphen"/>plauſe or the like) is <hi>Godlineſs; from ſuch with<g ref="char:EOLhyphen"/>draw thy ſelf,</hi> he ſays in his <hi>ſacred</hi> and <hi>ſerious</hi>
+               <pb n="10" facs="tcp:97646:10"/>
+advice to <hi>Timothy</hi> his dearly beloved Son, 1. <hi>Tim.</hi> 6. <hi>To the ſame effect</hi> others, though perhaps not ſo <hi>higlhy</hi> or divinely inſpired: Sir <hi>H<g ref="char:punc">▪</g> Wotton</hi> was a very worthy Perſon, <hi>a man of</hi> 
+               <note place="margin">
+                  <hi>Written or engraven on the plain Marble of Sir</hi> H. W. <hi>by his own appointment,</hi> Hic jacet hujus ſen<g ref="char:EOLhyphen"/>tentiae pri<g ref="char:EOLhyphen"/>mus Auctor, <hi>Diſputandi pruritus fit Eccleſiarum Scabies.</hi> Nomen ali<g ref="char:EOLhyphen"/>lias quaere. <hi>Lluyd.</hi> Mem. of the States<g ref="char:EOLhyphen"/>men of <hi>En<g ref="char:EOLhyphen"/>gland</hi> ſince the Refor<g ref="char:EOLhyphen"/>mation, <hi>p.</hi> 806.</note> 
+               <hi>excellent parts for Learning,</hi> and other <hi>uſeful abilities</hi> among men in his day and time, who never <hi>ſpake</hi> more <hi>like himſelf,</hi> or to <hi>better pur<g ref="char:EOLhyphen"/>poſe,</hi> than when <hi>he ſaid,</hi> and took it <hi>for his Motto,</hi> That, <hi>Diſputandi pruritus fit Eccleſia<g ref="char:EOLhyphen"/>rum Scabies:</hi> The <hi>Itch of Diſputing</hi> is made, or becomes <hi>the Scab of the Churches.</hi> And when was it ever <hi>more lamentably</hi> upon them than now in this <hi>Conjuncture?</hi> What <hi>itching and ſcratching</hi> there hath been <hi>among the ſeve<g ref="char:EOLhyphen"/>ral Parties</hi> both at <hi>home</hi> and <hi>abroad,</hi> I need not tell you, <hi>the Infamy of it is too notorious;</hi> yea, what <hi>reſiſting one another, even<g ref="char:punc">▪</g> unto Blood (quatenus</hi> Parties at leaſt) <hi>not in their</hi> 
+               <note n="m" place="margin">
+                  <hi>Heb.</hi> 12. 4.</note> 
+               <hi>ſtriving against ſin</hi> which would have been very <hi>com<g ref="char:EOLhyphen"/>mendable)</hi> but rather in their <hi>ſtriving,</hi> and con<g ref="char:EOLhyphen"/>tending to <hi>maintain</hi> and uphold ſin, in all thoſe <hi>fleſhly</hi> 
+               <note n="n" place="margin">2 <hi>Tim.</hi> 3. 5.</note> 
+               <hi>formalities</hi> that are <hi>ſufficiently</hi> known to have <hi>nothing</hi> of the <hi>Life,</hi> and <hi>Power,</hi> or <hi>Spirit of God</hi> in them.</p>
+            <p>And yet <hi>on they go</hi> for all this, and are <hi>upon their march</hi> Jehu-like, and <hi>furiouſly</hi> enough, and many <hi>ſore Battles,</hi> and <hi>ſad Rencounters</hi>
+               <pb n="11" facs="tcp:97646:10"/>
+they have had of late, here and there, wherein <hi>man</hi> againſt <hi>man,</hi> and <hi>Book</hi> againſt <hi>Book,</hi> and <note place="margin">
+                  <hi>—tantene animis coe<g ref="char:EOLhyphen"/>lestibus irae?</hi>
+               </note> 
+               <hi>Party</hi> againſt <hi>Party</hi> have been <hi>bitterly</hi> and <hi>ſpitefully</hi> engaged, all <hi>fighting in the ſhadow</hi> (as old <hi>Hermes</hi> ſaid) beating and <hi>buffeting</hi> one another <hi>(And abatarum more) blindfold</hi> and <hi>in the dark</hi> ſo long, until they have <hi>made themſelves</hi> extremely ridiculous and <hi>contemp<g ref="char:EOLhyphen"/>tible</hi> in the <hi>ſight and view</hi> of all that are <note n="o" place="margin">1 <hi>Theſ.</hi> 5. 8.</note> 
+               <hi>ſober,</hi> and <note n="p" place="margin">
+                  <hi>Pſal.</hi> 112 5.</note> 
+               <hi>diſcreet,</hi> and <note n="q" place="margin">
+                  <hi>Jam.</hi> 2. 1.</note> 
+               <hi>impartial,</hi> and <note n="r" place="margin">
+                  <hi>Prov.</hi> 3. 35. <hi>Dan.</hi> 12. 3.</note> 
+               <hi>wiſe-hear<g ref="char:EOLhyphen"/>ted</hi> among us, who <hi>cannot</hi> but ſee the <hi>formal</hi> Spirit <hi>thus divided againſt it ſelf,</hi> to be in its <hi>root</hi> and <hi>fruit,</hi> the very <hi>ſame</hi> with that which is moſt <hi>profane</hi> or <hi>common</hi> among men.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>—pudet haec opprobria nobis,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>A ſhame it is for us to hear and ſee,</l>
+                  <l>How ſadly the Parties diſagree.</l>
+               </lg>
+            </q>
+            <p>And all this for want of yielding that <hi>Sove<g ref="char:EOLhyphen"/>reign</hi> 
+               <note n="ſ" place="margin">
+                  <hi>Mat.</hi> 26. 18.</note> 
+               <hi>Power and Authority in Heaven and Earth, to that</hi> 
+               <note n="t" place="margin">
+                  <hi>Pſa.</hi> 62. 11</note> 
+               <hi>PRINCE OF PEACE,</hi> and bleſſed Son of God, to whom <hi>of right it</hi> 
+               <hi rend="sup">u</hi> 
+               <hi>be<g ref="char:EOLhyphen"/>longs,</hi> and peculiarly <hi>appertains:</hi> Hence it is that there have been ſo many <hi>Aceldemaes,</hi> ſo many fields of Blood, in all <hi>Times</hi> and <hi>Ages,</hi>
+               <pb n="12" facs="tcp:97646:11"/>
+in this and other <hi>Nations, Provinces,</hi> and <hi>Coun<g ref="char:EOLhyphen"/>tries,</hi> That the <note n="w" place="margin">
+                  <hi>Joh.</hi> 6. 69</note> 
+               <hi>Chriſt of God,</hi> the <note n="x" place="margin">
+                  <hi>Pſal.</hi> 45. 7.</note> 
+               <hi>Anointed of the Father, that Just and Holy One,</hi> hath not only <hi>been</hi> 
+               <note n="y" place="margin">
+                  <hi>Act.</hi> 3. 14.</note> 
+               <hi>denied,</hi> but cruelly <note n="z" place="margin">
+                  <hi>Act.</hi> 2. 23.</note> 
+               <hi>ſlain, and murthered,</hi> by wicked <hi>lawleſs:</hi> hands, in the <hi>ſtreet of that</hi> 
+               <note n="a" place="margin">
+                  <hi>Revel.</hi> 11. 8.</note> 
+               <hi>great City, which is ſpiritually called Sodom and Egypt; where alſo O<g ref="char:V">Ʋ</g>R LORD IS CR<g ref="char:V">Ʋ</g>CIFIED.</hi> And the <note n="b" place="margin">2 <hi>Theſ.</hi> 2. 3, 4.</note> 
+               <hi>Man of Sin</hi> advanced in the <hi>interim,</hi> and put into his <hi>Throne,</hi> or <hi>Seat,</hi> who can never <hi>manage,</hi> or car<g ref="char:EOLhyphen"/>ry on <hi>his work,</hi> without <hi>abundance of blood and cruelty;</hi> and yet not <hi>prevail</hi> in the iſſue nei<g ref="char:EOLhyphen"/>ther, <hi>but prevailed against</hi> for ever, by <note n="c" place="margin">
+                  <hi>Revel.</hi> 12. 7, 8.</note> 
+               <hi>Mi<g ref="char:EOLhyphen"/>chael and his Angels,</hi> when they come forth <hi>conquering and to conquer,</hi> in the <hi>name</hi> and <hi>ſtrength</hi> of that <hi>Great</hi> and <hi>Mighty</hi> God, who is not only <hi>Potent,</hi> but <note n="d" place="margin">
+                  <hi>Revel.</hi> 19. 6.</note> 
+               <hi>Omnipotent;</hi> not only <hi>Mighty,</hi> but <note n="e" place="margin">—15. 3.</note> 
+               <hi>Almighty.</hi>
+            </p>
+            <p>Upon which <hi>undoubted certainty,</hi> How good is that of the <hi>Pſalmiſt!</hi> Yea, how ex<g ref="char:EOLhyphen"/>ceeding worthy, <hi>even of all mens</hi> 
+               <note n="*" place="margin">1 <hi>Tim.</hi> 1. 15.</note> 
+               <hi>acceptati<g ref="char:EOLhyphen"/>on!</hi> Let not the <hi>Rulers,</hi> or <hi>Potentates,</hi> or Great Ones of the <hi>Earth</hi> (to whom he there in a <hi>ſpe<g ref="char:EOLhyphen"/>cial</hi> manner directs his ſpeech) think it any <hi>diſparagement</hi> to them, or <hi>any whit</hi> below them, to <hi>ſtoop and bow hefore it,</hi> leſt <hi>inevitable</hi> ruine <hi>attend</hi> them, for their <hi>neglecting</hi> or <hi>refu<g ref="char:EOLhyphen"/>ſing</hi>
+               <pb n="13" facs="tcp:97646:11"/>
+ſo to do: <hi>Be wiſe now therefore,</hi> 
+               <note n="f" place="margin">
+                  <hi>Pſal.</hi> 2. 10. 11. 12.</note> 
+               <hi>O ye Kings,</hi> he ſays, <hi>be inſtructed ye Judges of the Earth. Serve the Lord with fear, and rejoyce with trembling; kiſs the Son leſt he be angry, and ye periſh</hi> from the <note n="g" place="margin">
+                  <hi>Joh.</hi> 14. 6.</note> 
+               <hi>Way</hi> (the <hi>Truth,</hi> and the <hi>Life,)</hi> When his <hi>wrath is kindled but a little;</hi> what then? <hi>A ſhort elliptick phraſe,</hi> implying, <note place="margin">Contraria juxta ſe po<g ref="char:EOLhyphen"/>ſita magis eluteſcunt.</note> 
+               <hi>That as contraries do beſt illuſtrate, and ſet forth one another,</hi> ſo none ſo <hi>accurſed,</hi> or unſpea<g ref="char:EOLhyphen"/>kably <hi>miſerable,</hi> as they who fall into <hi>a way of</hi> contradiction, or <hi>courſe</hi> of abſolute contrariety, to, <hi>Bleſſed are all they that put their truſt in him.</hi> If no <hi>Creatures</hi> under <hi>Heaven</hi> be in ſo <hi>low,</hi> and <hi>mean,</hi> and <hi>baſe,</hi> and <hi>deformed,</hi> and <hi>dangerous,</hi> and <hi>ruinous a condition,</hi> as they <hi>who draw back unto perdition, according to the</hi> 
+               <note n="h" place="margin">
+                  <hi>Heb.</hi> 10. 39.</note> 
+               <hi>rate of the</hi> 
+               <note n="i" place="margin">2 <hi>Theſ.</hi> 2. 3.</note> 
+               <hi>Son of Perdition, by an evil heart of unbelief:</hi> then it muſt needs <hi>follow</hi> by the <hi>Rule</hi> we are upon, That <hi>none ſo exceedingly bleſſed and happy as they, who are</hi> 
+               <note n="k" place="margin">
+                  <hi>Iſ.</hi> 54. 13. <hi>Joh.</hi> 6. 45.</note> 
+               <hi>taught of God,</hi> and inabled thereby <hi>to</hi> 
+               <note n="l" place="margin">
+                  <hi>Heb.</hi> 10. 39.</note> 
+               <hi>believe unto the ſaving of the Soul. And upon</hi> that <hi>account,</hi> be it <hi>ſeriouſ<g ref="char:EOLhyphen"/>ly</hi> conſidered of, by your ſelf, <hi>Sir,</hi> and <hi>accor<g ref="char:EOLhyphen"/>dingly</hi> by us all, that being the <hi>Apoſtle,</hi> after he had <hi>freely</hi> and fully <hi>debated</hi> all matters of <hi>out<g ref="char:EOLhyphen"/>ward Order,</hi> concludes, <hi>That</hi> 
+               <note n="m" place="margin">
+                  <hi>Gal.</hi> 5. 6.</note> 
+               <hi>neither cir<g ref="char:EOLhyphen"/>cumciſion availeth anything, nor uncircumci<g ref="char:EOLhyphen"/>ſion,</hi>
+               <pb n="14" facs="tcp:97646:12"/>
+               <hi>but faith which worketh by love;</hi> ſince there is not any thing <hi>under a Form,</hi> or elſe<g ref="char:EOLhyphen"/>where to be <hi>met with</hi> (among the <hi>circumciſed,</hi> or the <hi>uncircumciſed)</hi> that can <hi>profit</hi> in the leaſt, <hi>avail,</hi> or <hi>ſignifie, without</hi> 
+               <note n="n" place="margin">
+                  <hi>Heb.</hi> 11. 6. <hi>Mark</hi> 9. 23. <hi>Eph.</hi> 5. 8. 1 <hi>Pet.</hi> 1. 5.</note> 
+               <hi>faith to<g ref="char:EOLhyphen"/>wards God, and</hi> 
+               <note n="o" place="margin">
+                  <hi>Rom.</hi> 13. 10. 1 <hi>Cor.</hi> 13. 13. <hi>Col.</hi> 3. 14.</note> 
+               <hi>love to one another.</hi>
+            </p>
+            <p>Were I but <hi>worthy,</hi> or any way fit to be an <hi>Ad<g ref="char:EOLhyphen"/>viſer</hi> to the ſeveral <hi>Partyſhips</hi> among us: I would <hi>hereupon</hi> in a <hi>fair</hi> and <hi>friendly way ſuggest</hi> thus much unto them, that as their <hi>croſſing</hi> and <hi>con<g ref="char:EOLhyphen"/>tradicting,</hi> and <hi>disturbing</hi> (eſpecially <hi>their hating and being angry with one another)</hi> can never do any good <hi>(for the</hi> 
+               <note n="p" place="margin">
+                  <hi>Jam.</hi> 1. 20.</note> 
+               <hi>wrath of man works not the righteouſneſs of God)</hi> ſo let them <hi>duly</hi> and timely <hi>conſider,</hi> how much in <hi>oppoſing</hi> and <hi>gainſaying</hi> one another, <hi>on this manner</hi> they muſt needs <hi>oppoſe</hi> and <hi>gainſay</hi> the <hi>mind</hi> and <hi>will of God,</hi> whoſe <note n="q" place="margin">
+                  <hi>Rom.</hi> 14. 17.</note> 
+               <hi>Kingdom is Righteouſneſs and Peace, and Joy in the Holy Ghost, and that hath nothing at all</hi> of that <hi>ſtrife</hi> and <hi>contenti<g ref="char:EOLhyphen"/>on</hi> in it, that now we <hi>ſpeak</hi> of; more eſpecial<g ref="char:EOLhyphen"/>ly let them <hi>take heed,</hi> that by their <note n="*" place="margin">So called, <hi>Jam.</hi> 3. 14.</note> 
+               <hi>bitter zeal</hi> and <hi>animoſities</hi> they <hi>ingage</hi> not too far, or <hi>ſtand not out</hi> too long, upon <hi>a ſtubborn diſobe<g ref="char:EOLhyphen"/>dience</hi> to that <hi>great counſel</hi> and <hi>command of</hi> 
+               <note n="r" place="margin">
+                  <hi>Rom.</hi> 13. 8.</note> 
+               <hi>Love</hi> (upon which ſo much of a <hi>Chriſtian courſe</hi> depends) leſt they all <hi>periſh,</hi> and <hi>fall</hi>
+               <pb n="15" facs="tcp:97646:12"/>
+               <hi>thereby into the ſame condemnation:</hi> See to this <hi>purpoſe</hi> Jam. 3. 1. where the words are, <note n="ſ" place="margin">
+                  <hi>Jam.</hi> 0. 1. Expl.</note> 
+               <hi>My Brethren, be not many Maſters,</hi> that is, <hi>do not that</hi> which <hi>love forbids,</hi> who <note n="t" place="margin">1 <hi>Cor.</hi> 13. 4.</note> 
+               <hi>vaunteth not her ſelf:</hi> Be not too <hi>Magiſterial</hi> in obtru<g ref="char:EOLhyphen"/>ding, or impoſing <hi>your own ſentiments</hi> in point of <hi>Opinion</hi> (and that ſome call <hi>Religion)</hi> leſt ye <hi>receive</hi> thereby <hi>the greater condemnation,</hi> as there it follows.</p>
+            <p>Before I <hi>remove</hi> or go quite off <hi>from hence,</hi> let me <hi>put you in mind,</hi> Sir, or be your <hi>Remem<g ref="char:EOLhyphen"/>brancer once for all,</hi> of that moſt <hi>excellent</hi> and ſeaſonable <hi>Advertiſement</hi> which our <hi>Apostle</hi> (yea, our <hi>Great</hi> 
+               <note n="u" place="margin">
+                  <hi>Heb</hi> 3 1.</note> 
+               <hi>Apoſtle)</hi> gives us by the <hi>mouth</hi> or <hi>hand-writing</hi> of <hi>Paul in one of his E<g ref="char:EOLhyphen"/>piſtles,</hi> which I take to be ſo <hi>pertinent</hi> and <hi>pre<g ref="char:EOLhyphen"/>tious,</hi> in oppoſition to all the monſtrous <hi>de<g ref="char:EOLhyphen"/>ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cheries</hi> and <hi>follies,</hi> and <hi>vanities</hi> of this Age, that the <hi>Dawnings</hi> of it among us <hi>would</hi> be more than <hi>Aurora-like</hi> when ready to <hi>bring forth the Sun,</hi> or the <hi>Sun</hi> to <hi>bring forth the Spring,</hi> or the <hi>Spring</hi> the varieties of all the <hi>whole</hi> Creation. The <hi>Place</hi> that I mean is, <hi>Rom.</hi> 13. from <hi>v</hi> 12. and ſo on, where it is thus <hi>re<g ref="char:EOLhyphen"/>corded,</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 13. 12, 13, 14.</note> and <hi>written</hi> for our Admonition, <hi>The night is far ſpent, the day is at hand, let us therefore caſt off the works of darkneſs, and let</hi>
+               <pb n="16" facs="tcp:97646:13" rendition="simple:additions"/>
+               <hi>us therefore cast off the works of darkneſs, and let us put on the Armour of light, let us walk honestly as in the day, not in rioting and drun<g ref="char:EOLhyphen"/>kenneſs, not in chambering and wantonneſs, not in ſtrife and envying; but put ye on the Lord Jeſus Chriſt, and make not proviſion for the fleſh, to fulfil the lusts thereof.</hi> May the <hi>Great</hi> 
+               <note n="x" place="margin">
+                  <hi>Job</hi> 33 23</note> 
+               <hi>Interpreter,</hi> one of <hi>a thouſand,</hi> the chief <note n="y" place="margin">
+                  <hi>Gen.</hi> 49. 24. <hi>Pſal</hi> 23. 1. <hi>Heb.</hi> 13. 20</note> 
+               <hi>Shepherd</hi> and <note n="z" place="margin">
+                  <hi>Iſ</hi> 40. 11. <hi>Ezek</hi> 34. 23. <hi>Joh.</hi> 10. 11.</note> 
+               <hi>Feeder of Iſrael</hi> be <hi>intreated,</hi> and <hi>prevailed</hi> with, to lead us into the <hi>life</hi> and <hi>power,</hi> into the <hi>truth</hi> and <hi>ſubstance</hi> of <hi>all this,</hi> or of <hi>this all,</hi> which will otherwiſe <hi>be but vain<g ref="char:EOLhyphen"/>ly read, or talked of among the people.</hi>
+            </p>
+            <p>But, <hi>Sir, one thing</hi> more I muſt <hi>add,</hi> and it ſhall be the <hi>Coronis</hi> or Concluſion of the whole, for I may <hi>not paſs,</hi> ſo much as <hi>a ſeemeng ne<g ref="char:EOLhyphen"/>glect,</hi> upon that <hi>truly</hi> 
+               <note n="a" place="margin">
+                  <hi>Act.</hi> 17. 11.</note> 
+               <hi>noble</hi> and <hi>Right</hi> 
+               <note n="b" place="margin">1 <hi>Sam.</hi> 2. 30.</note> 
+               <hi>Hono<g ref="char:EOLhyphen"/>rable</hi> 
+               <note n="c" place="margin">3 <hi>Epiſt. Joh.</hi> 1. 2.</note> 
+               <hi>Lady</hi> with <note n="*" place="margin">The moſt excellent Lady <hi>Sophia</hi> with whom the moſt noble and learned <hi>A<g ref="char:EOLhyphen"/>riſtobulus</hi> dwells.</note> whom you <hi>reſide,</hi> who hath made us <hi>both happy</hi> your ſelf eſpecially) in <note n="d" place="margin">
+                  <hi>Iſ.</hi> 60. 15.</note> the <hi>injoyment</hi> of her <hi>Acquaintance,</hi> as an <hi>emi<g ref="char:EOLhyphen"/>nent Patern of that eternal excellencie</hi> that God <hi>communicated</hi> with his <hi>people</hi> in, <hi>when he makes them his <note n="e" place="margin">1 <hi>Cor.</hi> 6. 18.</note> Sons and Daughters:</hi> Let me <hi>therefore intreat you</hi> to favour me <hi>ſo far,</hi> as to pay my <hi>due reſpects</hi> in full <hi>to her Honour;</hi> and ſo much the rather, becauſe <hi>you know,</hi> that I am not <hi>in a capacity</hi> of doing it <note n="*" place="margin">Man of himſelf at the greateſt diſtance from the knowledge of God in Chriſt, and greateſt e<g ref="char:EOLhyphen"/>nemy there<g ref="char:EOLhyphen"/>unto.</note> 
+               <hi>my ſelf,</hi> at
+<pb n="17" facs="tcp:97646:13"/>
+ſuch a <hi>diſtance;</hi> withal, pray let the <hi>ſervice be attended</hi> with an humble <hi>intimation,</hi> that I do with much <hi>veneration,</hi> and <hi>ſubmiſſion to the Divine Will</hi> congratulate <hi>that acceſs of Dignity,</hi> lately <hi>put upon her even</hi> by the <hi>Apostle</hi> himſelf, where he lays his <hi>Commands</hi> upon us, to <note n="f" place="margin">1 <hi>Tim.</hi> 5. 8.</note> 
+               <hi>Ho<g ref="char:EOLhyphen"/>nour Widows that are Widows ind<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</hi> that is, ſuch as have been <hi>lawfully looſed,</hi> or rightfully <hi>diſobliged</hi> from all manner of <hi>Compacts, Agree<g ref="char:EOLhyphen"/>ments,</hi> or <hi>Combinations</hi> in the fleſh, to be <hi>totally affianced</hi> or <hi>eſpouſed,</hi> to <note n="*" place="margin">
+                  <hi>Vidua non Viduata.</hi> Take this in the largeſt ſenſe, put<g ref="char:EOLhyphen"/>ting no con<g ref="char:EOLhyphen"/>finement upon <hi>Luſts of the fleſh.</hi>
+               </note> 
+               <hi>that</hi> 
+               <note n="g" place="margin">2 <hi>Cor.</hi> 11. 2.</note> 
+               <hi>one Husband,</hi> who always <note n="h" place="margin">
+                  <hi>Jer.</hi> 31. 3. <hi>Mal.</hi> 1. 2.</note> 
+               <hi>loves,</hi> and never <hi>hates,</hi> and <hi>ever</hi> 
+               <note n="i" place="margin">
+                  <hi>Heb</hi> 7. 25. <hi>Rom</hi> 6. 10.</note> 
+               <hi>lives</hi> to God <hi>in the Spirit,</hi> and never <hi>dies</hi> to any thing but the <hi>fleſh:</hi> And this is that <note n="k" place="margin">
+                  <hi>Heb.</hi> 13. 4.</note> 
+               <hi>Mar<g ref="char:EOLhyphen"/>riage that I look upon as honourable indeed, and the bed that is undefiled;</hi> and as for thoſe <hi>Whoremongers</hi> and <hi>Adulterens,</hi> or <hi>Fornicators of this world</hi> (<note n="*" place="margin">
+                  <hi>Rev.</hi> 22. 11. <hi>Iſa.</hi> 32. 6.</note> filthy vile perſons) that can <hi>ea<g ref="char:EOLhyphen"/>ſily,</hi> and without <hi>remorſe</hi> proſtitute their <hi>Souls,</hi> their <hi>Bodies,</hi> their <hi>Eſtates,</hi> their <hi>Reputations,</hi> any thing, <hi>every thing</hi> (be it either <hi>Sacred</hi> or <hi>Civil<g ref="char:punc">▪</g>
+               </hi> to their own <hi>prodigious</hi> and unbridled <hi>lusts, let God alone to judge them,</hi> and to <hi>make</hi> it <hi>appear</hi> what <hi>they</hi> are, <hi>as he daily does,</hi> and will <hi>do it,</hi> more and more, <hi>to the praiſe of his holy Name,</hi> and the <hi>great</hi> and ſingular <hi>incourage<g ref="char:EOLhyphen"/>ment</hi> of all thoſe that have <hi>a ſecret Antipathy,</hi>
+               <pb n="18" facs="tcp:97646:14"/>
+well and truly <hi>fixed</hi> and <hi>eſtabliſhed</hi> in them <hi>a<g ref="char:EOLhyphen"/>gainſt all ſuch lewd, and lowd-crying Abomina<g ref="char:EOLhyphen"/>tions:</hi> In the <hi>mean time,</hi> or while this is doing, according to the <hi>counſel</hi> and <hi>care that God takes</hi> of his own <hi>Affairs,</hi> what <hi>ſhall</hi> we <hi>write</hi> upon the <hi>Premiſes,</hi> but <hi>Hinc Lachrymae?</hi> or that doleful ſaying of the Prophet, <note n="l" place="margin">
+                  <hi>Ezek.</hi> 19. 14.</note> 
+               <hi>This is a Lamentation, and ſhall be for a lamentation,</hi> ſo long as it does continue.</p>
+            <p>And now, <hi>Sir, that</hi> you have <hi>occaſionally</hi> drawn me <hi>forth</hi> to this <hi>length,</hi> that is not <hi>ordi<g ref="char:EOLhyphen"/>nary</hi> with me in <hi>things of this nature.</hi> If what I have <hi>written,</hi> may in the leaſt <hi>refreſh, delight,</hi> or <hi>do you good,</hi> as a furtherance of <hi>your</hi> 
+               <note n="m" place="margin">
+                  <hi>Neh.</hi> 8. 10</note> 
+               <hi>Joy,</hi> your <note n="n" place="margin">
+                  <hi>Mic.</hi> 5. 15.</note> 
+               <hi>Peace,</hi> your <note n="o" place="margin">
+                  <hi>Pſal.</hi> 11. 6, 7.</note> 
+               <hi>Reſt</hi> in God, it <hi>ſtands</hi> as <hi>a diſh ready dreſſed</hi> upon the <hi>Table</hi> before you, and <hi>having told</hi> you that you are <hi>kindly</hi> and heartily <hi>welcome</hi> to it; I do <hi>accordingly</hi> bid you <note n="p" place="margin">2 <hi>Cor.</hi> 13. 11.</note> 
+               <hi>Farewell.</hi>
+            </p>
+            <closer>
+               <signed>Yours, and every one's that loves and walks in the truth, as it is in our bleſſed Lord Jeſus: <hi>Erimaſtix Philalethes,</hi> R. C. P.</signed>
+               <dateline>Dated from <hi>Bethel,</hi> near the Pool of <hi>Betheſda,</hi> in the <hi>Land</hi> of our <hi>Immanuel;</hi> where the <hi>Angel</hi> gives it in upon Oath <hi>That time ſhall be no more,</hi> Apoc. 10. Or <hi>where</hi> all things are <hi>meaſured according</hi> to the <hi>account of God,</hi> and not <hi>according</hi> to the <hi>ſhallow Regiſter</hi> of <hi>Mans Day</hi> and <hi>Time.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="19" facs="tcp:97646:14"/>
+            <head>A Poſtſcript TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader:</salute>
+            </opener>
+            <p>IF the <note n="a" place="margin">
+                  <hi>Act.</hi> 9. 18.</note> 
+               <hi>ſcales of ignorance</hi> be <hi>fallen</hi> from <hi>thine eyes,</hi> and the <hi>care</hi> of thy <hi>Native Country</hi> ſo <hi>dear</hi> to thee, as it <hi>ſhould</hi> and ought to be, <note n="b" place="margin">17. 16.</note> 
+               <hi>thy Spirit</hi> muſt needs be <hi>ſtirred</hi> (as <hi>Pauls</hi> was at <hi>Athens)</hi> to ſee the poor <hi>diſtreſſed Nation</hi> ſo mightily <hi>over-run</hi> with Formality on the <hi>one hand,</hi> and <hi>Pro<g ref="char:EOLhyphen"/>faneneſs</hi> on the <hi>other,</hi> both <hi>combining</hi> in their <hi>Riſe</hi> and <hi>Progreſs</hi> to <hi>ruine</hi> and <hi>undo</hi> the people, whilſt they <hi>open<g ref="char:EOLhyphen"/>ly proclaim to all</hi> the world, and <hi>teſti<g ref="char:EOLhyphen"/>fie</hi> at <hi>length</hi> to our <hi>very faces,</hi> the <hi>va<g ref="char:EOLhyphen"/>nity</hi>
+               <pb n="20" facs="tcp:97646:15"/>
+of our <hi>contending</hi> about our <hi>Reli<g ref="char:EOLhyphen"/>gious</hi> Intereſts, and that we have <hi>fought</hi> in the <hi>ſhadow,</hi> ſo long <hi>till we have loſt the Subſtance.</hi>
+            </p>
+            <p>And yet <hi>although</hi> it be true, that of all <hi>Pilots,</hi> he had <hi>need</hi> to be the moſt <hi>skilful</hi> that ſhall <hi>undertake</hi> to guide and <hi>carry the Ship ſecurely,</hi> and let her <hi>fall down</hi> into a <hi>ſafe</hi> and <hi>even courſe</hi> between <hi>Scylla</hi> and <hi>Charybdis,</hi> or theſe two dangerous <hi>Rocks</hi> of Formality and Profaneneſs; conſidering <hi>like<g ref="char:EOLhyphen"/>wiſe</hi> that of all <hi>Paſsengers</hi> or <hi>Tra<g ref="char:EOLhyphen"/>vellers</hi> under <hi>Heaven,</hi> either by <hi>Sea</hi> or <hi>Land,</hi> none have <hi>more need</hi> of an able <hi>Convoy,</hi> or <note n="c" place="margin">
+                  <hi>Iſa.</hi> 4. 5.</note> 
+               <hi>mighty Defence</hi> upon them, than ſuch as are <hi>obnoxious,</hi> or in danger to be <hi>ſet upon</hi> by theſe <hi>two potent Armies</hi> of Formality and Pro<g ref="char:EOLhyphen"/>faneneſs (always in a readineſs on the <hi>Frontiers</hi> of Chriſtianity) under whoſe <hi>Conduct,</hi> and in whoſe <hi>Maga<g ref="char:EOLhyphen"/>zines</hi>
+               <pb n="21" facs="tcp:97646:15"/>
+lie <hi>enveloped</hi> all the <hi>Counſels,</hi> and <hi>Contrivances,</hi> and <hi>Inſtruments</hi> and <hi>Executions</hi> of <hi>Cruelty</hi> and <hi>Confuſion,</hi> of <hi>Miſchief</hi> and <hi>Sorrow</hi> that ever the <hi>World</hi> heard of.</p>
+            <p>Notwithſtanding <hi>all this,</hi> and what elſe might be <hi>farther mentioned,</hi> look what the <hi>Prophet mentions</hi> in that <hi>formidable</hi> inſtance of <note n="d" place="margin">
+                  <hi>Iſa.</hi> 7. 2. 4.</note> 
+               <hi>Syria's</hi> being <hi>confederate</hi> with <hi>Ephraim (when the hearts of the people were moved as the trees of the wood are moved with the wind)</hi> that's ſtill in <hi>uſe,</hi> and chiefly to be <hi>regarded; Take heed, and be quiet,</hi> he ſays, and then <hi>fear not,</hi> neither be <hi>ſaint-hearted,</hi> for the <hi>two tails</hi> of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <hi>ſmoaking firebrands,</hi> or portentous <hi>blazing Comets</hi> Formality and Profaneneſs.</p>
+            <p>For albeit like <hi>Jannes</hi> and <hi>Jambres,</hi> and the reſt <hi>of that Society,</hi> they (both) <hi>muster</hi> up all their <hi>might,</hi> and bring <hi>forth</hi> all their <hi>ſtock</hi> of <hi>Policy</hi> and <hi>Power</hi> to <hi>withſtand</hi> the true <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> or hinder the <note n="e" place="margin">
+                  <hi>Mal.</hi> 4. 2.</note> 
+               <hi>riſing Sun,</hi> yet ſhall they <note n="f" place="margin">2 <hi>Tim.</hi> 3. 8. 9.</note> 
+               <hi>proceed</hi> no <hi>farther,</hi> when once <hi>their folly ſhall be made manifest</hi> to all men, as <hi>theirs</hi> alſo was.</p>
+            <p>Whereunto if this <hi>ſmall Epiſtle,</hi> or ſlender <hi>Intimation</hi> thereby <hi>ſuggeſted,</hi> may but in the leaſt be <hi>ſubſervient,</hi> or any way <hi>advantageous,</hi>
+               <pb n="22" facs="tcp:97646:16"/>
+               <hi>let God have the Praiſe, and his People the be<g ref="char:EOLhyphen"/>nefit of it,</hi> which will <hi>fully</hi> and exactly <hi>anſwer</hi> the <hi>End,</hi> or <hi>Deſigne</hi> of this <hi>Publication:</hi> where<g ref="char:EOLhyphen"/>by <hi>nothing</hi> is more <hi>deſired</hi> than <hi>to ſee the Life of the LORD JES<g ref="char:V">Ʋ</g>S EXALTED,</hi> in the <hi>voiding</hi> of <hi>theſe things, and his own way of WORSHIP and ADMINISTRATIONS exer<g ref="char:EOLhyphen"/>ciſed and put inpractiſe</hi> 
+               <note n="g" place="margin">
+                  <hi>Joh.</hi> 4. 24.</note> 
+               <hi>IN SPIRIT AND TR<g ref="char:V">Ʋ</g>TH among us.</hi>
+            </p>
+            <p>Even ſo, <note n="h" place="margin">
+                  <hi>Revel.</hi> 22. 20.</note> 
+               <hi>Come Lord Jeſus, Come quickly.</hi> Making the <note n="i" place="margin">
+                  <hi>Iſa.</hi> 66. 22. 2 <hi>Pet.</hi> 3. 13. <hi>Revel.</hi> 21, 1.-5.</note> 
+               <hi>Heavens</hi> and the <hi>Earth,</hi> and <hi>all things</hi> new; <note n="k" place="margin">
+                  <hi>Jer.</hi> 33. 6.</note> 
+               <hi>Revealing</hi> to us the <hi>abundance</hi> of <hi>Truth and Peace;</hi> 
+               <note n="l" place="margin">
+                  <hi>Act.</hi> 3. 21.</note> 
+               <hi>Restoring,</hi> 
+               <note n="m" place="margin">
+                  <hi>Pſal.</hi> 104. 30.</note> 
+               <hi>renewing,</hi> and <hi>filling</hi> the <note n="n" place="margin">
+                  <hi>Iſ.</hi> 27. 6.</note> 
+               <hi>face</hi> of the <hi>World</hi> with the <hi>knowledge,</hi> and <hi>love,</hi> and <hi>fear</hi> of the <hi>Lord,</hi> as <note n="o" place="margin">11. 9.</note> the <hi>waters cover the Sea;</hi> when our <hi>fleſh,</hi> or tired-out <hi>condition</hi> ſhall <note n="p" place="margin">
+                  <hi>Pſ.</hi> 16 9.</note> 
+               <hi>reſt in hope,</hi> and <note n="q" place="margin">
+                  <hi>Act.</hi> 3. 19.</note> 
+               <hi>Times of refreſhing</hi> come <hi>from</hi> that <note n="r" place="margin">
+                  <hi>Job</hi> 42. 5.</note> 
+               <hi>Beati<g ref="char:EOLhyphen"/>fical Viſion,</hi> or moſt <hi>calm</hi> and <hi>ſerene</hi> 
+               <note n="ſ" place="margin">
+                  <hi>Pſ.</hi> 16. 11.</note> 
+               <hi>Preſence,</hi> that hath <hi>fulneſs of Joy</hi> in it, and <hi>everlaſting Pleaſure.</hi> Even ſo, Amen.</p>
+            <q>
+               <bibl>
+                  <hi>Jer.</hi> 51. 7.</bibl>
+               <p>Babylon hath been a golden Cup in the Lords <note place="margin">Babylon de<g ref="char:EOLhyphen"/>tected.</note> hand, that made all the Earth drunken: the Nations have drunken of her wine, there<g ref="char:EOLhyphen"/>fore the Nations are mad.</p>
+            </q>
+            <pb n="23" facs="tcp:97646:16"/>
+            <q>
+               <bibl>
+                  <hi>Pſal.</hi> 87. 5, 6.</bibl>
+               <p>And of Sion it ſhall be ſaid, This and that <note place="margin">Sion exal<g ref="char:EOLhyphen"/>ted.</note> man was born in her; and the Higheſt himſelf ſhall eſtabliſh her.</p>
+               <p>The Lord ſhall count, when he writeth up the people: that this man was born there <hi>Selah.</hi>
+               </p>
+            </q>
+            <q>
+               <p>In thy light we ſee light,</p> 
+               <bibl>
+                  <hi>Pſal.</hi> 35. 9.</bibl>
+            </q>
+            <p>FINIS: OR, THE END of all things is at hand: Be ye therefore ſober <note place="margin">1 <hi>Pet.</hi> 4.—7. 8.</note> and watch unto Prayer: But above all things, have fervent love among your ſelves; for love will cover the multitude of ſins, and both timely correct, and totally expunge, or wipe out all the <hi>ERRATA</hi> that may be found in the Author or his Book, the Workman or the Work.</p>
+            <pb n="24" facs="tcp:97646:17"/>
+            <epigraph>
+               <q>
+                  <p>
+                     <bibl>2 <hi>Cor.</hi> 5. 14.</bibl> The love of Chriſt conſtraineth us thus to judge<hi>:</hi> that if One died for all, then were all dead:</p>
+                  <p>
+                     <bibl>15.</bibl> And that he died for all, that they which live ſhould not henceforth live unto them<g ref="char:EOLhyphen"/>ſelves, but unto Him which died for them and roſe again.</p>
+               </q>
+            </epigraph>
+            <closer>
+               <hi>AMEN. HALEL<g ref="char:V">Ʋ</g>IAH.</hi> Which being Interpreted, is, <hi>PRAISE YE GOD.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
